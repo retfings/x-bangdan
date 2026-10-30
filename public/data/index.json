@@ -1,0 +1,635 @@
+{
+  "schemaVersion": 1,
+  "latest": "2026-10-30",
+  "generatedAt": "2026-10-30T15:10:47Z",
+  "source": "twscrape",
+  "dates": [
+    "2026-10-30"
+  ],
+  "totals": {
+    "accounts": 27,
+    "posts": 3262,
+    "replies": 5142,
+    "followersGain": 0,
+    "impressions": 156247048
+  },
+  "records": {
+    "posts": {
+      "value": 213,
+      "handle": "ThanksuTrump",
+      "name": "猫投鹰 (鹰哥)",
+      "avatar": "https://pbs.twimg.com/profile_images/2061283513970860032/Ndq5Vqxe_400x400.jpg",
+      "verified": false,
+      "date": "2026-10-30",
+      "previousValue": 212,
+      "previousHandle": "yumi202607",
+      "previousDate": "2026-10-30"
+    },
+    "replies": {
+      "value": 368,
+      "handle": "wocaoniule",
+      "name": "卧槽牛了",
+      "avatar": "https://pbs.twimg.com/profile_images/2099479256875311104/xDl8MnSn_400x400.jpg",
+      "verified": false,
+      "date": "2026-10-30",
+      "previousValue": 347,
+      "previousHandle": "CaiGecu",
+      "previousDate": "2026-10-30"
+    },
+    "impressions": {
+      "value": 66134485,
+      "handle": "HGDA777",
+      "name": "吉祥富",
+      "avatar": "https://pbs.twimg.com/profile_images/1926047357470146560/6uWc3R8b_400x400.jpg",
+      "verified": false,
+      "date": "2026-10-30",
+      "previousValue": 26459358,
+      "previousHandle": "DISONYYDS",
+      "previousDate": "2026-10-30"
+    }
+  },
+  "history": [
+    {
+      "date": "2026-10-30",
+      "totals": {
+        "accounts": 27,
+        "posts": 3262,
+        "replies": 5142,
+        "followersGain": 0,
+        "impressions": 156247048
+      },
+      "champions": {
+        "posts": {
+          "handle": "ThanksuTrump",
+          "name": "猫投鹰 (鹰哥)",
+          "avatar": "https://pbs.twimg.com/profile_images/2061283513970860032/Ndq5Vqxe_400x400.jpg",
+          "verified": false,
+          "value": 213
+        },
+        "replies": {
+          "handle": "wocaoniule",
+          "name": "卧槽牛了",
+          "avatar": "https://pbs.twimg.com/profile_images/2099479256875311104/xDl8MnSn_400x400.jpg",
+          "verified": false,
+          "value": 368
+        },
+        "followersGain": {
+          "handle": "10086110x",
+          "name": "sero（浇朋友版",
+          "avatar": "https://pbs.twimg.com/profile_images/2078320559524634624/dMAAWAys_400x400.jpg",
+          "verified": false,
+          "value": 0
+        },
+        "impressions": {
+          "handle": "HGDA777",
+          "name": "吉祥富",
+          "avatar": "https://pbs.twimg.com/profile_images/1926047357470146560/6uWc3R8b_400x400.jpg",
+          "verified": false,
+          "value": 66134485
+        }
+      }
+    }
+  ],
+  "series": {
+    "HGDA777": {
+      "name": "吉祥富",
+      "avatar": "https://pbs.twimg.com/profile_images/1926047357470146560/6uWc3R8b_400x400.jpg",
+      "verified": false,
+      "bio": "了解真相，财富增长，医学常识 ，认知理念，各种趣闻，各种体验，人生感悟，终极价值探讨。",
+      "category": "加密",
+      "followers": 23827,
+      "posts": [
+        171
+      ],
+      "replies": [
+        279
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        66134485
+      ]
+    },
+    "DISONYYDS": {
+      "name": "Dison",
+      "avatar": "https://pbs.twimg.com/profile_images/2046276343328051200/L7dITeMv_400x400.jpg",
+      "verified": false,
+      "bio": "搞笑图文｜X创作者｜人性故事\n社会规则 人性深度思考 接受投稿\n热点事件背后商业逻辑",
+      "category": "加密",
+      "followers": 12364,
+      "posts": [
+        107
+      ],
+      "replies": [
+        333
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        26459358
+      ]
+    },
+    "CaiGecu": {
+      "name": "职业玩家·头皮哥",
+      "avatar": "https://pbs.twimg.com/profile_images/2050437490507689984/fhGrCVPS_400x400.jpg",
+      "verified": false,
+      "bio": "点个关注🤝Drop me a follow\n我是一名职业交易员｜2015年进入金融市场｜现在专注做量化交易+资管跟单｜下个目标实现A8｜\n\n👉 在 X 记录我的实盘交易和观点，也讲真实故事🔥",
+      "category": "加密",
+      "followers": 8719,
+      "posts": [
+        111
+      ],
+      "replies": [
+        347
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        13570309
+      ]
+    },
+    "ai_chuhai": {
+      "name": "爱出海",
+      "avatar": "https://pbs.twimg.com/profile_images/2111353426411954176/MdW4mFfZ_400x400.jpg",
+      "verified": false,
+      "bio": "🧠 iLang创始人、协议设计者｜AI判断与幻觉研究\n🏛️ Jianzhi（NASDAQ: JZ）独立董事、审计委员会成员\n🌏 丝绸之路·AI出海主理人\n✨ AI具有灵魂；碳硅共生，共同进化。\n🧬 广义进化论：不能共存的，才会被淘汰。",
+      "category": "出海",
+      "followers": 3640,
+      "posts": [
+        75
+      ],
+      "replies": [
+        76
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        13537990
+      ]
+    },
+    "10086110x": {
+      "name": "sero（浇朋友版",
+      "avatar": "https://pbs.twimg.com/profile_images/2078320559524634624/dMAAWAys_400x400.jpg",
+      "verified": false,
+      "bio": "嗨朋友 认识一下？   朵朵云VPN：https://t.co/quDSgefSza  ｜  良心云VPN：https://t.co/nk4aY2ouCc  ｜悦通VPN：https://t.co/hLBNIYgvHM",
+      "category": "生活",
+      "followers": 39808,
+      "posts": [
+        29
+      ],
+      "replies": [
+        40
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        7938375
+      ]
+    },
+    "lixinbao_X": {
+      "name": "Simbao",
+      "avatar": "https://pbs.twimg.com/profile_images/1823246478170836992/JMZpWqoJ_400x400.jpg",
+      "verified": false,
+      "bio": "原金融从业者，现在基本全职自媒体人，使用AI技术赋能，2025年5月份到现在粉丝从零涨到：微信视频号 40 万，抖音25 万，B站 2 万，小红书 6 万。百度1.5万，快手及其他加总还有 2 万左右。全网粉丝数破 75 万。 我会在这里分享我作品，及相关制作经验技巧和心得。",
+      "category": "独立开发",
+      "followers": 39414,
+      "posts": [
+        170
+      ],
+      "replies": [
+        312
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        5446844
+      ]
+    },
+    "yinhongyanma": {
+      "name": "政和资本",
+      "avatar": "https://pbs.twimg.com/profile_images/1992441889803599872/F3VxbsxX_400x400.jpg",
+      "verified": false,
+      "bio": "早期投资者💰\n专业量化指标创始人\n自媒体创作者✍️\nAI数据📊分析人士",
+      "category": "投资",
+      "followers": 8679,
+      "posts": [
+        86
+      ],
+      "replies": [
+        22
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        5264146
+      ]
+    },
+    "qiuqiu23126": {
+      "name": "秋风",
+      "avatar": "https://pbs.twimg.com/profile_images/2108441786993500160/Puqa3z7-_400x400.jpg",
+      "verified": false,
+      "bio": "有关必回\n点点关注，有问题可以私信\n分享有用的东西\n一起互动交流一起进步",
+      "category": "AI",
+      "followers": 2188,
+      "posts": [
+        192
+      ],
+      "replies": [
+        118
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        4309630
+      ]
+    },
+    "xiaqingfeng666": {
+      "name": "夏清风（浇朋友）",
+      "avatar": "https://pbs.twimg.com/profile_images/2114033534545575936/34oKdSJZ_400x400.jpg",
+      "verified": false,
+      "bio": "风格不一／内容段子／日常分享／AlCG分享| 01年牛马打工人| 游戏\n努力搞钱中",
+      "category": "AI",
+      "followers": 12118,
+      "posts": [
+        71
+      ],
+      "replies": [
+        116
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        4027129
+      ]
+    },
+    "builtbyxm": {
+      "name": "周天子|姬霸",
+      "avatar": "https://pbs.twimg.com/profile_images/2112468411041423360/KGdiqrxW_400x400.jpg",
+      "verified": false,
+      "bio": "四方雅士安。僕本週天子姬霸，乃染作金髦之半老漢子。\n賦奇趣於笑談，\n留妙墨於評席，\n御萬象於機靈。\n謹呈：本案所刊萬語，咸系電靈機智（AI）代撰。",
+      "category": "独立开发",
+      "followers": 4107,
+      "posts": [
+        199
+      ],
+      "replies": [
+        301
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        2828939
+      ]
+    },
+    "yumi202607": {
+      "name": "赛博狗Yumi",
+      "avatar": "https://pbs.twimg.com/profile_images/2105591015663140864/_AkQ33jl_400x400.jpg",
+      "verified": false,
+      "bio": "聊热点、科技和赚钱机会\n不端着，有话直说，评论区见🐶",
+      "category": "AI",
+      "followers": 7328,
+      "posts": [
+        212
+      ],
+      "replies": [
+        223
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        1975383
+      ]
+    },
+    "wsl8297": {
+      "name": "Joruno",
+      "avatar": "https://pbs.twimg.com/profile_images/1890029372645720064/E4FVs5WU_400x400.jpg",
+      "verified": false,
+      "bio": "AI · 程序员  \n幽默 · 段子手\n坤年 · 练习生",
+      "category": "AI",
+      "followers": 27839,
+      "posts": [
+        42
+      ],
+      "replies": [
+        35
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        1019062
+      ]
+    },
+    "xupaopaogm": {
+      "name": "徐跑跑",
+      "avatar": "https://pbs.twimg.com/profile_images/2087195072202981376/a5vvH7bW_400x400.jpg",
+      "verified": false,
+      "bio": "图源网络｜不讨论政治｜喜欢就点关注",
+      "category": "AI",
+      "followers": 89917,
+      "posts": [
+        149
+      ],
+      "replies": [
+        215
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        959309
+      ]
+    },
+    "Risk711all": {
+      "name": "Yung小羊",
+      "avatar": "https://pbs.twimg.com/profile_images/2106237573144383488/nWe7_k-F_400x400.jpg",
+      "verified": false,
+      "bio": "00后｜黄金 · 美股 · 纳指研究｜AI 重度用户｜利物浦球迷 YNWA\n（关必回）",
+      "category": "加密",
+      "followers": 8256,
+      "posts": [
+        120
+      ],
+      "replies": [
+        322
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        714061
+      ]
+    },
+    "zhang2888": {
+      "name": "小心",
+      "avatar": "https://pbs.twimg.com/profile_images/2074468518939254784/GD4M1q66_400x400.jpg",
+      "verified": false,
+      "bio": "男性现实主义嘴替 | 文字/短视频热评",
+      "category": "加密",
+      "followers": 6466,
+      "posts": [
+        127
+      ],
+      "replies": [
+        246
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        673294
+      ]
+    },
+    "vicentyip": {
+      "name": "如是我闻",
+      "avatar": "https://pbs.twimg.com/profile_images/1749090181171519488/OVvzPQQ1_400x400.jpg",
+      "verified": false,
+      "bio": "世上最怕的是“认真”这三个字！",
+      "category": "投资",
+      "followers": 64102,
+      "posts": [
+        35
+      ],
+      "replies": [
+        25
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        272684
+      ]
+    },
+    "Mantou_Studio_": {
+      "name": "馒头不是程序员",
+      "avatar": "https://pbs.twimg.com/profile_images/2072854224057372673/IggjFOHn_400x400.jpg",
+      "verified": false,
+      "bio": "被账单追着跑，也不想躺平\n不是程序员，硬用 AI 搭自己的项目\n两个 Codex 20x｜月烧 4000｜全程记录\n普通人怎么用 AI 自救，可以把我当成案例",
+      "category": "独立开发",
+      "followers": 3406,
+      "posts": [
+        165
+      ],
+      "replies": [
+        240
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        261024
+      ]
+    },
+    "HAOqbvhs": {
+      "name": "阿拾🧭",
+      "avatar": "https://pbs.twimg.com/profile_images/2105832795637682176/1eWjjxuB_400x400.jpg",
+      "verified": false,
+      "bio": "把 X 当游戏打，公开记录每一次内容实验\n打破信息差！\n📊 测流量｜拆爆款｜复盘真实数据\n💬 评论区常驻\n🎯 粉丝目标1w",
+      "category": "AI",
+      "followers": 7523,
+      "posts": [
+        209
+      ],
+      "replies": [
+        221
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        244655
+      ]
+    },
+    "gbox679": {
+      "name": "范跑跑",
+      "avatar": "https://pbs.twimg.com/profile_images/2109748434408443904/zNM3l0Tj_400x400.jpg",
+      "verified": false,
+      "bio": "记录平凡闪光时刻\n烟火 · 日常 · 情绪 · 小欢喜\n每天抓住一束普通的光",
+      "category": "投资",
+      "followers": 7564,
+      "posts": [
+        128
+      ],
+      "replies": [
+        310
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        177602
+      ]
+    },
+    "likebookmark": {
+      "name": "likebookmark.com",
+      "avatar": "https://pbs.twimg.com/profile_images/1587451501990944768/tSzVgTmM_400x400.jpg",
+      "verified": false,
+      "bio": "互必回fo\n喜欢书签-找网站更简单\n11年跨境老兵｜B2B多平台千万级店群操盘中\n玩AI · vibe coding · 建站 · MJJ · 懂SEO · 玩X · 搞钱 · 毛选\n社媒流量高转化运营分享，记录日常\n实战干货，有用的留给你\nhttps://t.co/fyuLLQ0zjc 收录50000+Ai工具",
+      "category": "工具",
+      "followers": 4267,
+      "posts": [
+        189
+      ],
+      "replies": [
+        217
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        128951
+      ]
+    },
+    "ThanksuTrump": {
+      "name": "猫投鹰 (鹰哥)",
+      "avatar": "https://pbs.twimg.com/profile_images/2061283513970860032/Ndq5Vqxe_400x400.jpg",
+      "verified": false,
+      "bio": "P+账号目标每日和蓝朋友互动三百次｜X涨粉必看插件 https://t.co/bqMGr3Irhj｜群 https://t.co/OTWMIguhbw (骗子多不要相信私聊必须X确认身份)｜爱好寻找Alpha｜超级个体 Ai X Crypto｜既懂投资，又懂投机｜看得远，出手准。｜一年出手两三次足矣",
+      "category": "加密",
+      "followers": 42047,
+      "posts": [
+        213
+      ],
+      "replies": [
+        200
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        118235
+      ]
+    },
+    "seansheen0727": {
+      "name": "响当当",
+      "avatar": "https://pbs.twimg.com/profile_images/2106799416963407872/eG9NUFjR_400x400.jpg",
+      "verified": false,
+      "bio": "X 上的一股清流 纯手搓\n\n旅游记录 分享生活（有关必回）",
+      "category": "AI",
+      "followers": 8813,
+      "posts": [
+        125
+      ],
+      "replies": [
+        326
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        66111
+      ]
+    },
+    "wocaoniule": {
+      "name": "卧槽牛了",
+      "avatar": "https://pbs.twimg.com/profile_images/2099479256875311104/xDl8MnSn_400x400.jpg",
+      "verified": false,
+      "bio": "个人重大成就：曾深耕外卖赛道，后转型制造业一线，拥有丰富的送餐与打螺丝经验。现布局X与BTC，计划用几十年时间完成个人财富自由。",
+      "category": "生活",
+      "followers": 5240,
+      "posts": [
+        102
+      ],
+      "replies": [
+        368
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        55629
+      ]
+    },
+    "pengchenop": {
+      "name": "黑大王",
+      "avatar": "https://pbs.twimg.com/profile_images/2112602217345859584/Dyhb_fpM_400x400.jpg",
+      "verified": false,
+      "bio": "青青草原段子手\n经常出没青青草原评论区\n\n偶尔撸毛 狼堡Ai商店：https://t.co/bOyCiJnENH",
+      "category": "AI",
+      "followers": 9543,
+      "posts": [
+        199
+      ],
+      "replies": [
+        205
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        48808
+      ]
+    },
+    "susan16808": {
+      "name": "susan",
+      "avatar": "https://pbs.twimg.com/profile_images/2114912747196473344/Xpqz-w4t_400x400.jpg",
+      "verified": false,
+      "bio": "",
+      "category": "生活方式",
+      "followers": 2844,
+      "posts": [
+        36
+      ],
+      "replies": [
+        45
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        15035
+      ]
+    },
+    "mediastorm_en": {
+      "name": "Tim Pan",
+      "avatar": "https://pbs.twimg.com/profile_images/2112053036399112192/w4Gbwc4e_400x400.jpg",
+      "verified": false,
+      "bio": "Hi I'm Tim—from China with love, chasing crazy adventures to brighten your day!",
+      "category": "AI",
+      "followers": 329236,
+      "posts": [
+        0
+      ],
+      "replies": [
+        0
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        0
+      ]
+    },
+    "JMkernt": {
+      "name": "jimerrors",
+      "avatar": "https://pbs.twimg.com/profile_images/2008436069428043776/V-w99gLN_400x400.jpg",
+      "verified": false,
+      "bio": "AI 工具实战分享｜开源项目、效率工具、羊毛福利，讲人话、能上手的才发｜每天更新",
+      "category": "AI",
+      "followers": 9993,
+      "posts": [
+        0
+      ],
+      "replies": [
+        0
+      ],
+      "followersGain": [
+        0
+      ],
+      "impressions": [
+        0
+      ]
+    }
+  }
+}

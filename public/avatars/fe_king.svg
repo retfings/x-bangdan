@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#f59e0b"/><stop offset="1" stop-color="#ef4444"/>
+    </linearGradient>
+    <radialGradient id="r" cx="30%" cy="20%" r="70%">
+      <stop stop-color="#ffffff" stop-opacity=".38"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="160" height="160" rx="80" fill="url(#g)"/>
+  <rect width="160" height="160" rx="80" fill="url(#r)"/>
+  <circle cx="128" cy="36" r="46" fill="#ffffff" opacity=".10"/>
+  <circle cx="30" cy="142" r="58" fill="#000000" opacity=".12"/>
+  <text x="80" y="80" text-anchor="middle" dominant-baseline="central"
+    font-family="PingFang SC,Microsoft YaHei,Segoe UI,sans-serif" font-size="62" font-weight="700"
+    fill="#ffffff">前</text>
+</svg>

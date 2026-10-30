@@ -1,0 +1,40 @@
+name: Daily Kaggle collection
+
+on:
+  schedule:
+    # 15:40 UTC = 23:40 Asia/Shanghai, near the end of the statistical day.
+    - cron: '40 15 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: kaggle-daily
+  cancel-in-progress: false
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Kaggle CLI
+        run: pip install --quiet kaggle
+
+      - name: Configure Kaggle credentials
+        env:
+          KAGGLE_ACCESS_TOKEN: ${{ secrets.KAGGLE_ACCESS_TOKEN }}
+        run: |
+          mkdir -p "$HOME/.kaggle"
+          printf '%s' "$KAGGLE_ACCESS_TOKEN" > "$HOME/.kaggle/access_token"
+          chmod 600 "$HOME/.kaggle/access_token"
+
+      - name: Trigger Kaggle notebook
+        run: kaggle kernels push -p kaggle

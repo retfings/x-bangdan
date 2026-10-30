@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 44" fill="none">
+  <defs>
+    <linearGradient id="lg" x1="0" y1="0" x2="44" y2="44" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366f1"/><stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="44" height="44" rx="12" fill="url(#lg)"/>
+  <path d="M10 12h6.4l6.2 8.6L29 12h5.6L26 26l9 12h-6.4l-6.8-9.2L13.8 38H8.2l10.6-14L10 12Z" fill="#fff"/>
+  <text x="54" y="29" font-family="PingFang SC,Microsoft YaHei,system-ui,sans-serif" font-size="22" font-weight="700" fill="currentColor">X榜单</text>
+  <text x="132" y="28" font-family="PingFang SC,Microsoft YaHei,system-ui,sans-serif" font-size="10" fill="currentColor" opacity=".55">中文区数据门户</text>
+</svg>

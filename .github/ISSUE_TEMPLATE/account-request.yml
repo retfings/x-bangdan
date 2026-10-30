@@ -1,0 +1,39 @@
+name: 申请收录 / 移除账号
+description: 提交要加入榜单的 X 账号，或申请移除自己的账号
+title: "[账号] "
+labels: ["account"]
+body:
+  - type: dropdown
+    id: action
+    attributes:
+      label: 操作类型
+      options:
+        - 申请收录
+        - 申请移除
+    validations:
+      required: true
+  - type: input
+    id: handle
+    attributes:
+      label: X 账号
+      description: 填写 handle 或主页链接
+      placeholder: "@example 或 https://x.com/example"
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: 分类
+      placeholder: AI / 出海 / 独立开发 / 加密 / 设计 / 生活
+  - type: textarea
+    id: reason
+    attributes:
+      label: 补充说明
+      description: 一句话介绍，或移除原因
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: 确认
+      options:
+        - label: 这是公开账号，且我理解榜单数据来自公开信息
+          required: true

@@ -1,0 +1,32 @@
+{
+  "_comment": "要追踪的 X 账号。handle 不需要带 @。category 仅用于站内筛选，可自行修改。",
+  "accounts": [
+    { "handle": "pengchenop", "category": "AI", "enabled": true },
+    { "handle": "mediastorm_en", "category": "AI", "enabled": true },
+    { "handle": "xupaopaogm", "category": "AI", "enabled": true },
+    { "handle": "qiuqiu23126", "category": "AI", "enabled": true },
+    { "handle": "ThanksuTrump", "category": "加密", "enabled": true },
+    { "handle": "HGDA777", "category": "加密", "enabled": true },
+    { "handle": "lixinbao_X", "category": "独立开发", "enabled": true },
+    { "handle": "HAOqbvhs", "category": "AI", "enabled": true },
+    { "handle": "likebookmark", "category": "工具", "enabled": true },
+    { "handle": "Mantou_Studio_", "category": "独立开发", "enabled": true },
+    { "handle": "wocaoniule", "category": "生活", "enabled": true },
+    { "handle": "yumi202607", "category": "AI", "enabled": true },
+    { "handle": "builtbyxm", "category": "独立开发", "enabled": true },
+    { "handle": "yinhongyanma", "category": "投资", "enabled": true },
+    { "handle": "xiaqingfeng666", "category": "AI", "enabled": true },
+    { "handle": "Risk711all", "category": "加密", "enabled": true },
+    { "handle": "zhang2888", "category": "加密", "enabled": true },
+    { "handle": "gbox679", "category": "投资", "enabled": true },
+    { "handle": "DISONYYDS", "category": "加密", "enabled": true },
+    { "handle": "vicentyip", "category": "投资", "enabled": true },
+    { "handle": "CaiGecu", "category": "加密", "enabled": true },
+    { "handle": "seansheen0727", "category": "AI", "enabled": true },
+    { "handle": "10086110x", "category": "生活", "enabled": true },
+    { "handle": "wsl8297", "category": "AI", "enabled": true },
+    { "handle": "ai_chuhai", "category": "出海", "enabled": true },
+    { "handle": "susan16808", "category": "生活方式", "enabled": true },
+    { "handle": "JMkernt", "category": "AI", "enabled": true }
+  ]
+}
