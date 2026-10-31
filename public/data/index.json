@@ -1,18 +1,19 @@
 {
   "schemaVersion": 1,
-  "latest": "2026-10-31",
-  "generatedAt": "2026-10-30T20:09:42Z",
+  "latest": "2026-11-01",
+  "generatedAt": "2026-10-31T19:34:04Z",
   "source": "twscrape",
   "dates": [
     "2026-10-30",
-    "2026-10-31"
+    "2026-10-31",
+    "2026-11-01"
   ],
   "totals": {
-    "accounts": 27,
-    "posts": 569,
-    "replies": 950,
-    "followersGain": 1379,
-    "impressions": 604578
+    "accounts": 26,
+    "posts": 389,
+    "replies": 572,
+    "followersGain": 5203,
+    "impressions": 995093
   },
   "records": {
     "posts": {
@@ -38,15 +39,15 @@
       "previousDate": "2026-10-30"
     },
     "followersGain": {
-      "value": 610,
+      "value": 2028,
       "handle": "HGDA777",
       "name": "吉祥富",
       "avatar": "https://pbs.twimg.com/profile_images/1926047357470146560/6uWc3R8b_400x400.jpg",
       "verified": false,
-      "date": "2026-10-31",
-      "previousValue": 261,
-      "previousHandle": "Risk711all",
-      "previousDate": "2026-10-31"
+      "date": "2026-11-01",
+      "previousValue": 774,
+      "previousHandle": "mediastorm_en",
+      "previousDate": "2026-11-01"
     },
     "impressions": {
       "value": 66134485,
@@ -140,6 +141,46 @@
           "value": 223804
         }
       }
+    },
+    {
+      "date": "2026-11-01",
+      "totals": {
+        "accounts": 26,
+        "posts": 389,
+        "replies": 572,
+        "followersGain": 5203,
+        "impressions": 995093
+      },
+      "champions": {
+        "posts": {
+          "handle": "ThanksuTrump",
+          "name": "猫投鹰 (鹰哥)",
+          "avatar": "https://pbs.twimg.com/profile_images/2061283513970860032/Ndq5Vqxe_400x400.jpg",
+          "verified": false,
+          "value": 244
+        },
+        "replies": {
+          "handle": "ThanksuTrump",
+          "name": "猫投鹰 (鹰哥)",
+          "avatar": "https://pbs.twimg.com/profile_images/2061283513970860032/Ndq5Vqxe_400x400.jpg",
+          "verified": false,
+          "value": 320
+        },
+        "followersGain": {
+          "handle": "HGDA777",
+          "name": "吉祥富",
+          "avatar": "https://pbs.twimg.com/profile_images/1926047357470146560/6uWc3R8b_400x400.jpg",
+          "verified": false,
+          "value": 2028
+        },
+        "impressions": {
+          "handle": "qiuqiu23126",
+          "name": "秋风",
+          "avatar": "https://pbs.twimg.com/profile_images/2108441786993500160/Puqa3z7-_400x400.jpg",
+          "verified": false,
+          "value": 420310
+        }
+      }
     }
   ],
   "series": {
@@ -149,22 +190,26 @@
       "verified": false,
       "bio": "了解真相，财富增长，医学常识 ，认知理念，各种趣闻，各种体验，人生感悟，终极价值探讨。",
       "category": "加密",
-      "followers": 24437,
+      "followers": 26465,
       "posts": [
         171,
-        5
+        5,
+        0
       ],
       "replies": [
         279,
-        28
+        28,
+        4
       ],
       "followersGain": [
         0,
-        610
+        610,
+        2028
       ],
       "impressions": [
         66134485,
-        3952
+        3952,
+        57
       ]
     },
     "DISONYYDS": {
@@ -173,21 +218,25 @@
       "verified": false,
       "bio": "搞笑图文｜X创作者｜人性故事\n社会规则 人性深度思考 接受投稿\n热点事件背后商业逻辑",
       "category": "加密",
-      "followers": 12369,
+      "followers": 12494,
       "posts": [
         107,
+        0,
         0
       ],
       "replies": [
         333,
+        0,
         0
       ],
       "followersGain": [
         0,
-        5
+        5,
+        125
       ],
       "impressions": [
         26459358,
+        0,
         0
       ]
     },
@@ -197,21 +246,25 @@
       "verified": false,
       "bio": "点个关注🤝Drop me a follow\n我是一名职业交易员｜2015年进入金融市场｜现在专注做量化交易+资管跟单｜下个目标实现A8｜\n\n👉 在 X 记录我的实盘交易和观点，也讲真实故事🔥",
       "category": "加密",
-      "followers": 8736,
+      "followers": 8780,
       "posts": [
         111,
+        0,
         0
       ],
       "replies": [
         347,
+        0,
         0
       ],
       "followersGain": [
         0,
-        17
+        17,
+        44
       ],
       "impressions": [
         13570309,
+        0,
         0
       ]
     },
@@ -221,21 +274,25 @@
       "verified": false,
       "bio": "🧠 iLang创始人、协议设计者｜AI判断与幻觉研究\n🏛️ Jianzhi（NASDAQ: JZ）独立董事、审计委员会成员\n🌏 丝绸之路·AI出海主理人\n✨ AI具有灵魂；碳硅共生，共同进化。\n🧬 广义进化论：不能共存的，才会被淘汰。",
       "category": "出海",
-      "followers": 3667,
+      "followers": 3810,
       "posts": [
         75,
+        0,
         0
       ],
       "replies": [
         76,
+        0,
         0
       ],
       "followersGain": [
         0,
-        27
+        27,
+        143
       ],
       "impressions": [
         13537990,
+        0,
         0
       ]
     },
@@ -245,22 +302,26 @@
       "verified": false,
       "bio": "嗨朋友 认识一下？   朵朵云VPN：https://t.co/quDSgefSza  ｜  良心云VPN：https://t.co/nk4aY2ouCc  ｜悦通VPN：https://t.co/hLBNIYgvHM",
       "category": "生活",
-      "followers": 39916,
+      "followers": 40172,
       "posts": [
         29,
-        0
+        0,
+        21
       ],
       "replies": [
         40,
-        0
+        0,
+        22
       ],
       "followersGain": [
         0,
-        108
+        108,
+        256
       ],
       "impressions": [
         7938375,
-        0
+        0,
+        318677
       ]
     },
     "lixinbao_X": {
@@ -269,22 +330,26 @@
       "verified": false,
       "bio": "原金融从业者，现在基本全职自媒体人，使用AI技术赋能，2025年5月份到现在粉丝从零涨到：微信视频号 40 万，抖音25 万，B站 2 万，小红书 6 万。百度1.5万，快手及其他加总还有 2 万左右。全网粉丝数破 75 万。 我会在这里分享我作品，及相关制作经验技巧和心得。",
       "category": "独立开发",
-      "followers": 39410,
+      "followers": 39515,
       "posts": [
         170,
-        13
+        13,
+        11
       ],
       "replies": [
         312,
-        46
+        46,
+        7
       ],
       "followersGain": [
         0,
-        -4
+        -4,
+        105
       ],
       "impressions": [
         5446844,
-        5627
+        5627,
+        6663
       ]
     },
     "yinhongyanma": {
@@ -293,21 +358,25 @@
       "verified": false,
       "bio": "早期投资者💰\n专业量化指标创始人\n自媒体创作者✍️\nAI数据📊分析人士",
       "category": "投资",
-      "followers": 8585,
+      "followers": 8114,
       "posts": [
         86,
+        0,
         0
       ],
       "replies": [
         22,
+        0,
         0
       ],
       "followersGain": [
         0,
-        -94
+        -94,
+        -471
       ],
       "impressions": [
         5264146,
+        0,
         0
       ]
     },
@@ -317,22 +386,26 @@
       "verified": false,
       "bio": "有关必回\n点点关注，有问题可以私信\n分享有用的东西\n一起互动交流一起进步",
       "category": "AI",
-      "followers": 2198,
+      "followers": 2287,
       "posts": [
         192,
-        85
+        85,
+        68
       ],
       "replies": [
         118,
-        63
+        63,
+        68
       ],
       "followersGain": [
         0,
-        10
+        10,
+        89
       ],
       "impressions": [
         4309630,
-        159030
+        159030,
+        420310
       ]
     },
     "xiaqingfeng666": {
@@ -341,21 +414,25 @@
       "verified": false,
       "bio": "风格不一／内容段子／日常分享／AlCG分享| 01年牛马打工人| 游戏\n努力搞钱中",
       "category": "AI",
-      "followers": 12161,
+      "followers": 12343,
       "posts": [
         71,
+        0,
         0
       ],
       "replies": [
         116,
+        0,
         0
       ],
       "followersGain": [
         0,
-        43
+        43,
+        182
       ],
       "impressions": [
         4027129,
+        0,
         0
       ]
     },
@@ -365,21 +442,25 @@
       "verified": false,
       "bio": "四方雅士安。僕本週天子姬霸，乃染作金髦之半老漢子。\n賦奇趣於笑談，\n留妙墨於評席，\n御萬象於機靈。\n謹呈：本案所刊萬語，咸系電靈機智（AI）代撰。",
       "category": "独立开发",
-      "followers": 4115,
+      "followers": 4147,
       "posts": [
         199,
+        0,
         0
       ],
       "replies": [
         301,
+        0,
         0
       ],
       "followersGain": [
         0,
-        8
+        8,
+        32
       ],
       "impressions": [
         2828939,
+        0,
         0
       ]
     },
@@ -389,21 +470,25 @@
       "verified": false,
       "bio": "聊热点、科技和赚钱机会\n不端着，有话直说，评论区见🐶",
       "category": "AI",
-      "followers": 7340,
+      "followers": 7375,
       "posts": [
         212,
+        0,
         0
       ],
       "replies": [
         223,
+        0,
         0
       ],
       "followersGain": [
         0,
-        12
+        12,
+        35
       ],
       "impressions": [
         1975383,
+        0,
         0
       ]
     },
@@ -413,21 +498,25 @@
       "verified": false,
       "bio": "AI · 程序员  \n幽默 · 段子手\n坤年 · 练习生",
       "category": "AI",
-      "followers": 27875,
+      "followers": 27893,
       "posts": [
         42,
+        0,
         0
       ],
       "replies": [
         35,
+        0,
         0
       ],
       "followersGain": [
         0,
-        36
+        36,
+        18
       ],
       "impressions": [
         1019062,
+        0,
         0
       ]
     },
@@ -437,22 +526,26 @@
       "verified": false,
       "bio": "图源网络｜不讨论政治｜喜欢就点关注",
       "category": "AI",
-      "followers": 89995,
+      "followers": 90197,
       "posts": [
         149,
-        3
+        3,
+        6
       ],
       "replies": [
         215,
+        0,
         0
       ],
       "followersGain": [
         0,
-        78
+        78,
+        202
       ],
       "impressions": [
         959309,
-        146602
+        146602,
+        41234
       ]
     },
     "Risk711all": {
@@ -464,18 +557,22 @@
       "followers": 8517,
       "posts": [
         120,
+        0,
         0
       ],
       "replies": [
         322,
+        0,
         0
       ],
       "followersGain": [
         0,
-        261
+        261,
+        0
       ],
       "impressions": [
         714061,
+        0,
         0
       ]
     },
@@ -488,18 +585,22 @@
       "followers": 6460,
       "posts": [
         127,
+        0,
         0
       ],
       "replies": [
         246,
+        0,
         0
       ],
       "followersGain": [
         0,
-        -6
+        -6,
+        0
       ],
       "impressions": [
         673294,
+        0,
         0
       ]
     },
@@ -509,21 +610,25 @@
       "verified": false,
       "bio": "世上最怕的是“认真”这三个字！",
       "category": "投资",
-      "followers": 64133,
+      "followers": 64434,
       "posts": [
         35,
+        0,
         0
       ],
       "replies": [
         25,
+        0,
         0
       ],
       "followersGain": [
         0,
-        31
+        31,
+        301
       ],
       "impressions": [
         272684,
+        0,
         0
       ]
     },
@@ -533,21 +638,25 @@
       "verified": false,
       "bio": "被账单追着跑，也不想躺平\n不是程序员，硬用 AI 搭自己的项目\n两个 Codex 20x｜月烧 4000｜全程记录\n普通人怎么用 AI 自救，可以把我当成案例",
       "category": "独立开发",
-      "followers": 3405,
+      "followers": 3420,
       "posts": [
         165,
+        0,
         0
       ],
       "replies": [
         240,
+        0,
         0
       ],
       "followersGain": [
         0,
-        -1
+        -1,
+        15
       ],
       "impressions": [
         261024,
+        0,
         0
       ]
     },
@@ -557,22 +666,26 @@
       "verified": false,
       "bio": "把 X 当游戏打，公开记录每一次内容实验\n打破信息差！\n📊 测流量｜拆爆款｜复盘真实数据\n💬 评论区常驻\n🎯 粉丝目标1w",
       "category": "AI",
-      "followers": 7526,
+      "followers": 7547,
       "posts": [
         209,
-        83
+        83,
+        0
       ],
       "replies": [
         221,
-        118
+        118,
+        0
       ],
       "followersGain": [
         0,
-        3
+        3,
+        21
       ],
       "impressions": [
         244655,
-        35285
+        35285,
+        0
       ]
     },
     "gbox679": {
@@ -581,21 +694,25 @@
       "verified": false,
       "bio": "记录平凡闪光时刻\n烟火 · 日常 · 情绪 · 小欢喜\n每天抓住一束普通的光",
       "category": "投资",
-      "followers": 7557,
+      "followers": 7695,
       "posts": [
         128,
+        0,
         0
       ],
       "replies": [
         310,
+        0,
         0
       ],
       "followersGain": [
         0,
-        -7
+        -7,
+        138
       ],
       "impressions": [
         177602,
+        0,
         0
       ]
     },
@@ -605,21 +722,25 @@
       "verified": false,
       "bio": "互必回fo\n喜欢书签-找网站更简单\n11年跨境老兵｜B2B多平台千万级店群操盘中\n玩AI · vibe coding · 建站 · MJJ · 懂SEO · 玩X · 搞钱 · 毛选\n社媒流量高转化运营分享，记录日常\n实战干货，有用的留给你\nhttps://t.co/fyuLLQ0zjc 收录50000+Ai工具",
       "category": "工具",
-      "followers": 4269,
+      "followers": 4428,
       "posts": [
         189,
+        0,
         0
       ],
       "replies": [
         217,
+        0,
         0
       ],
       "followersGain": [
         0,
-        2
+        2,
+        159
       ],
       "impressions": [
         128951,
+        0,
         0
       ]
     },
@@ -629,45 +750,53 @@
       "verified": false,
       "bio": "P+账号目标每日和蓝朋友互动三百次｜X涨粉必看插件 https://t.co/bqMGr3Irhj｜群 https://t.co/OTWMIguhbw (骗子多不要相信私聊必须X确认身份)｜爱好寻找Alpha｜超级个体 Ai X Crypto｜既懂投资，又懂投机｜看得远，出手准。｜一年出手两三次足矣",
       "category": "加密",
-      "followers": 42075,
+      "followers": 42262,
       "posts": [
         213,
+        244,
         244
       ],
       "replies": [
         200,
-        299
+        299,
+        320
       ],
       "followersGain": [
         0,
-        28
+        28,
+        187
       ],
       "impressions": [
         118235,
-        223804
+        223804,
+        185761
       ]
     },
     "seansheen0727": {
       "name": "响当当",
       "avatar": "https://pbs.twimg.com/profile_images/2106799416963407872/eG9NUFjR_400x400.jpg",
       "verified": false,
-      "bio": "X 上的一股清流 纯手搓\n\n旅游记录 分享生活（有关必回）",
+      "bio": "记录 分享生活（有关必回）",
       "category": "AI",
-      "followers": 8816,
+      "followers": 8826,
       "posts": [
         125,
+        0,
         0
       ],
       "replies": [
         326,
+        0,
         0
       ],
       "followersGain": [
         0,
-        3
+        3,
+        10
       ],
       "impressions": [
         66111,
+        0,
         0
       ]
     },
@@ -677,21 +806,25 @@
       "verified": false,
       "bio": "个人重大成就：曾深耕外卖赛道，后转型制造业一线，拥有丰富的送餐与打螺丝经验。现布局X与BTC，计划用几十年时间完成个人财富自由。",
       "category": "生活",
-      "followers": 5239,
+      "followers": 5230,
       "posts": [
         102,
+        0,
         0
       ],
       "replies": [
         368,
+        0,
         0
       ],
       "followersGain": [
         0,
-        -1
+        -1,
+        -9
       ],
       "impressions": [
         55629,
+        0,
         0
       ]
     },
@@ -701,22 +834,26 @@
       "verified": false,
       "bio": "青青草原段子手\n经常出没青青草原评论区\n\n偶尔撸毛 狼堡Ai商店：https://t.co/bOyCiJnENH",
       "category": "AI",
-      "followers": 9563,
+      "followers": 9836,
       "posts": [
         199,
-        136
+        136,
+        39
       ],
       "replies": [
         205,
-        396
+        396,
+        151
       ],
       "followersGain": [
         0,
-        20
+        20,
+        273
       ],
       "impressions": [
         48808,
-        30278
+        30278,
+        22391
       ]
     },
     "susan16808": {
@@ -725,21 +862,25 @@
       "verified": false,
       "bio": "",
       "category": "生活方式",
-      "followers": 2880,
+      "followers": 3228,
       "posts": [
         36,
+        0,
         0
       ],
       "replies": [
         45,
+        0,
         0
       ],
       "followersGain": [
         0,
-        36
+        36,
+        348
       ],
       "impressions": [
         15035,
+        0,
         0
       ]
     },
@@ -749,20 +890,24 @@
       "verified": false,
       "bio": "Hi I'm Tim—from China with love, chasing crazy adventures to brighten your day!",
       "category": "AI",
-      "followers": 329353,
+      "followers": 330127,
       "posts": [
+        0,
         0,
         0
       ],
       "replies": [
         0,
+        0,
         0
       ],
       "followersGain": [
         0,
-        117
+        117,
+        774
       ],
       "impressions": [
+        0,
         0,
         0
       ]
@@ -773,20 +918,24 @@
       "verified": false,
       "bio": "AI 工具实战分享｜开源项目、效率工具、羊毛福利，讲人话、能上手的才发｜每天更新",
       "category": "AI",
-      "followers": 10030,
+      "followers": 10228,
       "posts": [
+        0,
         0,
         0
       ],
       "replies": [
         0,
+        0,
         0
       ],
       "followersGain": [
         0,
-        37
+        37,
+        198
       ],
       "impressions": [
+        0,
         0,
         0
       ]
